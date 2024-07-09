@@ -12,8 +12,6 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 public class TileMatchingGame extends JFrame implements ActionListener {
-	// Project 3 By Muhammad Yassa - Tile Matching Game
-	
 	// initializes variables.
 	int rows;
 	int cols;
